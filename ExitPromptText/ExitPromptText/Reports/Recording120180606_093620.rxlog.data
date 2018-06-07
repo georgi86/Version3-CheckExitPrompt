@@ -1,0 +1,196 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Failed"
+		duration="0ms"
+		durationms="0"
+		type="root"
+		rid="2d05626ac05b2990"
+		totalerrorcount="1"
+		totalwarningcount="0"
+		totalsuccesstestcasecount="0"
+		totalfailedtestcasecount="1"
+		totalblockedtestcasecount="0"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		user="EVMX"
+		host="SNAPDM200"
+		rxversion="7.0.1.0"
+		osversion="Windows 7 Service Pack 1 32bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		oslanguage="en-US"
+		dtnlanguage="en-US"
+		screenresolution="1920x1080"
+		timestamp="6/6/2018 09:36:22"
+		timestampiso="2018-06-06T06:36:22"
+		timeoutfactor="1"
+		module="Recording1">
+		<detail>
+			Recording1
+		</detail>
+		<varbindings>
+		</varbindings>
+		<item
+			timeRelativeToTestSuiteStartTime="00:00.073"
+			timeRelativeToTestModuleStartTime="00:00.073"
+			timeWallClock="09:36:22"
+			time="00:00.073"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'SnapXUntitled.MeasureText' at Center.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='Snap-X - [Untitled]']/container[@controlid='59648']/form[@title='Untitled']//text[@controlid='2394']"
+				fullname="ExitPromptTextRepository.SnapXUntitled.MeasureText"
+				id="c62e34dfbc6e46908ec80be1536ac473"
+				timeout="60000"
+				codefile="d:\Joro\GIT_Automations\VERSION 3\ExitPromptText\ExitPromptText\Recording1.cs"
+				codeline="82"
+				itemindex="0"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:04.122"
+			timeRelativeToTestModuleStartTime="00:04.122"
+			timeWallClock="09:36:26"
+			time="00:04.122"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'SnapXUntitled.SwitchToSensor' at Center.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='Snap-X - [Untitled]']/container[@controlid='59648']/form[@title='Untitled']/?/?/element[@controlid='59650']/element[@controlid='59648']/toolbar[@controlid='59392']/button[@commandid='40029']"
+				fullname="ExitPromptTextRepository.SnapXUntitled.SwitchToSensor"
+				id="6371d4e396ee4b7e8358785c65e1cc1c"
+				timeout="60000"
+				codefile="d:\Joro\GIT_Automations\VERSION 3\ExitPromptText\ExitPromptText\Recording1.cs"
+				codeline="86"
+				itemindex="1"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:05.251"
+			timeRelativeToTestModuleStartTime="00:05.251"
+			timeWallClock="09:36:28"
+			time="00:05.251"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'SnapXUntitled.TitleBar' at 700;12.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='Snap-X - [Untitled]']/element[@controlid='94']"
+				fullname="ExitPromptTextRepository.SnapXUntitled.TitleBar"
+				id="c01137ed84d141bb96d4443f114b97d5"
+				timeout="60000"
+				codefile="d:\Joro\GIT_Automations\VERSION 3\ExitPromptText\ExitPromptText\Recording1.cs"
+				codeline="90"
+				itemindex="2"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:06.394"
+			timeRelativeToTestModuleStartTime="00:06.394"
+			timeWallClock="09:36:29"
+			time="00:06.394"
+			level="Info"
+			category="Keyboard">
+			<message>
+				Key sequence '{LMenu}'.
+			</message>
+			<metainfo
+				itemindex="3"
+				codefile="d:\Joro\GIT_Automations\VERSION 3\ExitPromptText\ExitPromptText\Recording1.cs"
+				codeline="94"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:06.600"
+			timeRelativeToTestModuleStartTime="00:06.600"
+			timeWallClock="09:36:29"
+			time="00:06.600"
+			level="Info"
+			category="Keyboard">
+			<message>
+				Key sequence 'f'.
+			</message>
+			<metainfo
+				itemindex="4"
+				codefile="d:\Joro\GIT_Automations\VERSION 3\ExitPromptText\ExitPromptText\Recording1.cs"
+				codeline="98"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:06.807"
+			timeRelativeToTestModuleStartTime="00:06.808"
+			timeWallClock="09:36:29"
+			time="00:06.807"
+			level="Info"
+			category="Keyboard"
+			errimg=".\Recordin_a103a2a3_a2b08575_trace.jpg"
+			errthumb=".\Recordin_a103a2a3_a2b08575_trace_thumb.jpg">
+			<message>
+				Key sequence 'x'.
+			</message>
+			<metainfo
+				itemindex="5"
+				codefile="d:\Joro\GIT_Automations\VERSION 3\ExitPromptText\ExitPromptText\Recording1.cs"
+				codeline="102"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:07.010"
+			timeRelativeToTestModuleStartTime="00:07.010"
+			timeWallClock="09:36:29"
+			time="00:07.010"
+			level="Info"
+			category="Mouse"
+			errimg=".\Recordin_a103a2a3_891016cc_trace.jpg"
+			errthumb=".\Recordin_a103a2a3_891016cc_trace_thumb.jpg">
+			<message>
+				Mouse Left Click item 'SystemExit' at 188;45.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='System Exit']"
+				fullname="ExitPromptTextRepository.SystemExit.Self"
+				id="e1a214e0aa51496bbc20190b7f0a7139"
+				timeout="30000"
+				codefile="d:\Joro\GIT_Automations\VERSION 3\ExitPromptText\ExitPromptText\Recording1.cs"
+				codeline="106"
+				itemindex="6"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:10.209"
+			timeRelativeToTestModuleStartTime="00:10.209"
+			timeWallClock="09:36:33"
+			time="00:10.209"
+			level="Error"
+			category="User"
+			errimg=".\Recordin_a103a2a3_b38c6a0e_trace.jpg"
+			errthumb=".\Recordin_a103a2a3_b38c6a0e_trace_thumb.jpg">
+			<message>
+				The test run has been aborted by the user.
+			</message>
+			<metainfo
+				loglvl="Error">
+			</metainfo>
+		</item>
+	</activity>
+</report>

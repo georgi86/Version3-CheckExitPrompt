@@ -1,0 +1,119 @@
+﻿<repository
+id="bffd637a-9121-433f-b669-52a8d2cf5c22"
+name="ExitPromptTextRepository"
+rxversion="7.0">
+	<codegen
+	classname="ExitPromptTextRepository"
+	namespace="ExitPromptText">
+	</codegen>
+	<rootfolder
+	capname="unknown"
+	id="85661981-01ec-4e83-b9c5-9d590a5a8ade"
+	isrooted="True"
+	name="Root"
+	searchtimeout="0ms"
+	usecache="True">
+		<appfolder
+		addcaps="form,nativewindow"
+		capname="form"
+		id="2929d7c5-2cd8-410d-a9aa-f8c11df543f6"
+		isrooted="True"
+		name="SnapXUntitled"
+		refpath="/form[@title='Snap-X - [Untitled]']"
+		searchtimeout="30000ms"
+		usecache="True">
+			<item
+			addcaps="unknown,nativewindow"
+			capname="unknown"
+			id="c01137ed-84d1-41bb-96d4-443f114b97d5"
+			name="TitleBar"
+			refimgid="5e8fe1d1-fdca-486a-93d0-f9a573e7a068"
+			refpath="/form[@title='Snap-X - [Untitled]']/element[@controlid='94']"
+			searchtimeout="30000ms">
+				/form[@title='Snap-X - [Untitled]']/element[@controlid='94']
+			</item>
+			<item
+			addcaps="text,nativewindow"
+			capname="text"
+			id="c62e34df-bc6e-4690-8ec8-0be1536ac473"
+			name="MeasureText"
+			refimgid="53dce941-7aea-4389-b2f9-dfad25828eef"
+			searchtimeout="30000ms">
+				/form[@title='Snap-X - [Untitled]']/container[@controlid='59648']/form[@title='Untitled']//text[@controlid='2394']
+			</item>
+			<item
+			addcaps="button,nativeitem,checkable"
+			capname="button"
+			id="6371d4e3-96ee-4b7e-8358-785c65e1cc1c"
+			name="SwitchToSensor"
+			refimgid="c1536444-0543-4eb1-bc74-f3e867bd0b3b"
+			searchtimeout="30000ms">
+				/form[@title='Snap-X - [Untitled]']/container[@controlid='59648']/form[@title='Untitled']/?/?/element[@controlid='59650']/element[@controlid='59648']/toolbar[@controlid='59392']/button[@commandid='40029']
+			</item>
+			<item
+			addcaps="button,nativeitem,checkable"
+			capname="button"
+			id="d9c95d65-49dc-4683-ba73-55cf3a6ab1ab"
+			name="SwitchToFFW"
+			refimgid="8b66cc3b-95ec-45be-b176-8cf0f98af299"
+			searchtimeout="30000ms">
+				/form[@title='Snap-X - [Untitled]']/container[@controlid='59648']/form[@title='Untitled']//toolbar[@class='ToolbarWindow32' and @instance='7']/button[@commandid='40028']
+			</item>
+			<basepath>
+				/form[@title='Snap-X - [Untitled]']
+			</basepath>
+			<icon>
+				iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAGqSURBVDhPjVM9SwNBEF2/EcUuaJLdvd1LqihY
+BBFtRPAfWKkgWNpZqKUpLARLCzEggk0gweQuKURtBCsFwcJGsRLsLAQFBRXju73R3MUoPnjs3bx5
+s7Ozd+wLTlxPukJX/+AGpX4jm0630SNjGcaaHaGvGhgNHa6O8n3JiMv1DLiF2IUj1BvZfRixgdmQ
+q1es7/67OnOEtVCWUpPVR4GxFojXISPR4foFG2TLItFP6Y1REno+ZESbnrEoZZRSfofL7TkkP9QK
+qMtiXA2S/AOFVKrdf4ikurFTsW7nnf1kssMkEA57e7twlGlwFwNfrXA9xPKcd2JAJ2GzXiePwZ6U
+NrrZRtFHrDnHshRJXttqM2gGD6qMNXmat0JfQuzZaNjImIKAQFfjs8jtAZK84pmghs7uSKohlICr
+orAB2p0N6h4xlx6SfaDqRygpbo2TxI7ZWCvOfRPUHZlIk+wDn+hauIh6Qmy5ErWlp9d3UeL2lDEG
+gaqjZrpC3QeT8X6L4qfBGOayQrbGcIWIlWLWiCv1hGFcDaOjxVoRlaPU/8ObBYz+P8LVOYUBxj4B
+q6oLt3Pkl98AAAAASUVORK5CYII=
+			</icon>
+		</appfolder>
+		<appfolder
+		addcaps="form,nativewindow"
+		capname="form"
+		id="e1a214e0-aa51-496b-bc20-190b7f0a7139"
+		isrooted="True"
+		name="SystemExit"
+		refimgid="4ec74ee9-481d-48aa-9028-82b9b53479ab"
+		refpath="/form[@title='System Exit']"
+		searchtimeout="30000ms"
+		usecache="True">
+			<item
+			addcaps="text,nativewindow"
+			capname="text"
+			id="b79a0d8b-2d56-43d3-8c37-235fe4dbc09f"
+			name="InspectedText"
+			refimgid="d6f0524d-beee-44d3-824b-768d5ccf0447"
+			refpath="/form[@title='System Exit']/text[@controlid='1571']"
+			searchtimeout="30000ms">
+				/form[@title='System Exit']/text[@controlid='1571']
+			</item>
+			<basepath>
+				/form[@title='System Exit']
+			</basepath>
+			<icon>
+				iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAGqSURBVDhPjVM9SwNBEF2/EcUuaJLdvd1LqihY
+BBFtRPAfWKkgWNpZqKUpLARLCzEggk0gweQuKURtBCsFwcJGsRLsLAQFBRXju73R3MUoPnjs3bx5
+s7Ozd+wLTlxPukJX/+AGpX4jm0630SNjGcaaHaGvGhgNHa6O8n3JiMv1DLiF2IUj1BvZfRixgdmQ
+q1es7/67OnOEtVCWUpPVR4GxFojXISPR4foFG2TLItFP6Y1REno+ZESbnrEoZZRSfofL7TkkP9QK
+qMtiXA2S/AOFVKrdf4ikurFTsW7nnf1kssMkEA57e7twlGlwFwNfrXA9xPKcd2JAJ2GzXiePwZ6U
+NrrZRtFHrDnHshRJXttqM2gGD6qMNXmat0JfQuzZaNjImIKAQFfjs8jtAZK84pmghs7uSKohlICr
+orAB2p0N6h4xlx6SfaDqRygpbo2TxI7ZWCvOfRPUHZlIk+wDn+hauIh6Qmy5ErWlp9d3UeL2lDEG
+gaqjZrpC3QeT8X6L4qfBGOayQrbGcIWIlWLWiCv1hGFcDaOjxVoRlaPU/8ObBYz+P8LVOYUBxj4B
+q6oLt3Pkl98AAAAASUVORK5CYII=
+			</icon>
+		</appfolder>
+		<basepath>
+		</basepath>
+	</rootfolder>
+	<variables>
+	</variables>
+</repository>

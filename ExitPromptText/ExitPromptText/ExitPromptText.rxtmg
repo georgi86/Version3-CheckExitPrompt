@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modulegroupdoc
+rxversion="7.0">
+  <testsuiteentryhierarchy>
+    <flatlistofchildren>
+      <modulegroups
+      name="ExitPromptText"
+      id="02ead0f3-879a-49f2-9f0d-c3577be22de6"/>
+    </flatlistofchildren>
+    <childhierarchy>
+      <modulegroups
+      name="ExitPromptText"
+      id="02ead0f3-879a-49f2-9f0d-c3577be22de6"/>
+    </childhierarchy>
+  </testsuiteentryhierarchy>
+</modulegroupdoc>
