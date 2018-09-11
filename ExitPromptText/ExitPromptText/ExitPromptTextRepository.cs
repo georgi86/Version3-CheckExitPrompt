@@ -105,12 +105,12 @@ namespace ExitPromptText
             /// Creates a new SnapXUntitled  folder.
             /// </summary>
             public SnapXUntitledAppFolder(RepoGenBaseFolder parentFolder) :
-                    base("SnapXUntitled", "/form[@title='Snap-X - [Untitled]']", parentFolder, 30000, null, true, "2929d7c5-2cd8-410d-a9aa-f8c11df543f6", "")
+                    base("SNAPXUntitled", "/form[@title='SNAP-X - [Untitled]']", parentFolder, 30000, null, true, "2929d7c5-2cd8-410d-a9aa-f8c11df543f6", "")
             {
                 _titlebarInfo = new RepoItemInfo(this, "TitleBar", "element[@controlid='94']", 30000, null, "c01137ed-84d1-41bb-96d4-443f114b97d5");
                 _measuretextInfo = new RepoItemInfo(this, "MeasureText", "container[@controlid='59648']/form[@title='Untitled']//text[@controlid='2394']", 30000, null, "c62e34df-bc6e-4690-8ec8-0be1536ac473");
                 _switchtosensorInfo = new RepoItemInfo(this, "SwitchToSensor", "container[@controlid='59648']/form[@title='Untitled']/?/?/element[@controlid='59650']/element[@controlid='59648']/toolbar[@controlid='59392']/button[@commandid='40029']", 30000, null, "6371d4e3-96ee-4b7e-8358-785c65e1cc1c");
-                _switchtoffwInfo = new RepoItemInfo(this, "SwitchToFFW", "container[@controlid='59648']/form[@title='Untitled']//toolbar[@class='ToolbarWindow32' and @instance='7']/button[@commandid='40028']", 30000, null, "d9c95d65-49dc-4683-ba73-55cf3a6ab1ab");
+                _switchtoffwInfo = new RepoItemInfo(this, "SwitchToFFW", "container[@controlid='59648']/form[@title='Untitled']//toolbar[@class='ToolbarWindow32' and @instance='6']/button[@commandid='40028']", 30000, null, "d9c95d65-49dc-4683-ba73-55cf3a6ab1ab");
             }
 
             /// <summary>

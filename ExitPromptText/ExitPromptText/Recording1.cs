@@ -131,7 +131,7 @@ namespace ExitPromptText
             Delay.Milliseconds(200);
 
             string strActualMessage = repo.SystemExit.InspectedText.TextValue;
-            string strHardcodetMessage = "This will end your Snap-X session.";
+            string strHardcodetMessage = "This will end your SNAP-X session.";
             UtilityRun.TitleText(strActualMessage, strHardcodetMessage);
             Delay.Milliseconds(200);
 
@@ -161,7 +161,7 @@ namespace ExitPromptText
             Delay.Milliseconds(200);
 
             string strActualPromptText = repo.SystemExit.InspectedText.TextValue;
-            string strHardcodedPromptText = "This will end your Snap-X session.";
+            string strHardcodedPromptText = "This will end your SNAP-X session.";
             UtilityRun.TitleText(strActualPromptText, strHardcodedPromptText);
             Delay.Milliseconds(200);
 
@@ -219,7 +219,7 @@ namespace ExitPromptText
             Delay.Milliseconds(200);
 
             string strFFWActualPromptText = repo.SystemExit.InspectedText.TextValue;
-            string strFFWhardcodedPromptText = "This will end your Snap-X session.";
+            string strFFWhardcodedPromptText = "This will end your SNAP-X session.";
             UtilityRun.TitleText(strFFWActualPromptText, strFFWhardcodedPromptText);
             Delay.Milliseconds(200);
 
